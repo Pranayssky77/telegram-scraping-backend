@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+openpyxl
+requests
+httpx
+python-dotenv
+pydantic
+pyswisseph
+vedastro
+numpy
+python-multipart
+mangum
